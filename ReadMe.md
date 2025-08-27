@@ -1,7 +1,4 @@
----
-title: "Replication package for  the paper 'Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model'"
-output: html_document
----
+## Replication package for  the paper 'Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model'
 
 This file details the workflow how to obtain the results of the paper "Nowcasting economic activity in European regions using a mixed-frequency dynamic factor model". 
 
