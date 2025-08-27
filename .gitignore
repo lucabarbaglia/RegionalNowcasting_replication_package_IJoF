@@ -1,0 +1,14 @@
+*.out
+*.bbl
+*.aux
+*.blg
+*.log
+*.synctex.gz
+*.RHistory
+.Rproj.user
+*.Rhistory
+*.Rproj
+*.Rproj.user
+*.Rproj.user/*
+
+*readme.txt
